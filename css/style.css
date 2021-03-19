@@ -1,0 +1,42 @@
+h1, h2 {
+text-align: center;
+}
+
+body {
+margin: 10%;
+}
+
+/*
+.container {
+border: 1px solid white;
+background-color: rgb(73, 152, 237);
+color: white;
+text-align: right;
+
+}
+
+.col-sm-6 {
+border: 1px solid white;
+color: white;
+
+}
+
+.col-sm-12 {
+    border: 1px solid white;
+    background-color: yellow;
+    text-align: center;
+    color: white;
+}
+
+.col-sm-4 {
+    border: 1px solid white;
+    background-color: yellow;
+    text-align: center;
+}
+
+.col-sm-12 {
+    border: 1px solid white;
+    background-color: yellow;
+    text-align: center;
+}
+*/
